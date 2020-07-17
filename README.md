@@ -1,8 +1,8 @@
-# <div style="text-align:center">Dane David</div>
+# Dane David
 
 Hi, I'm a full stack developer, working with React, Node.js and other JavaScript stuff.
 
-##### Stuff I'm interested in/excited about:
+#### Stuff I'm interested in/excited about:
 
 - Open Source, of course! 💻
 - React ⚛
@@ -11,11 +11,11 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
 - Data Structures & Algorithms 🏗
 - Compilers 🐉
 
-##### You can e-shout at me if these packages don't work:
+#### You can e-shout at me if these packages don't work:
 
 - [useSetState](https://www.npmjs.com/package/@danedavid/usesetstate) - Dead simple React Hook that can replace this.setState
 
-##### Some PRs I'm proud of:
+#### Some PRs I'm proud of:
 
 - https://github.com/danedavid/hello-world/pull/1 - My first PR
 - [Ant Design](https://github.com/ant-design/ant-design)
@@ -35,7 +35,7 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
 
 ...and more ( some day soon I'll stop counting these 😎 )
 
-##### You can find me on the web at:
+#### You can find me on the web at:
 
 - [@this_dane](https://twitter.com/this_dane)
 - [LinkedIn](https://www.linkedin.com/in/dane-david/)
