@@ -35,6 +35,13 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
 
 ...and more ( some day soon I'll stop counting these 😎 )
 
+#### Stuff I've written & put up on the web:
+
+- [How to manage viewport intersection and input focus with custom React Hooks](https://medium.com/free-code-camp/how-to-manage-viewport-intersection-and-input-focus-with-custom-react-hooks-1ec3403a8d80)
+- [How I built my First Server-Rendered React/GraphQL app and deployed it on Heroku](https://medium.com/chingu/how-i-built-my-first-server-rendered-react-graphql-app-and-deployed-it-on-heroku-a078e934a8c5)
+- [Recreating this.setState() with React Hooks](https://dev.to/this_dane/recreating-this-setstate-with-react-hooks-42im)
+- [React Custom Hooks for prevProps & prevState](https://dev.to/this_dane/react-custom-hooks-for-prevprops-prevstate-15ho)
+
 #### You can find me on the web at:
 
 - [@this_dane](https://twitter.com/this_dane)
