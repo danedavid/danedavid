@@ -14,6 +14,7 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
 #### You can e-shout at me if these packages don't work:
 
 - [useSetState](https://www.npmjs.com/package/@danedavid/usesetstate) - Dead simple React Hook that can replace this.setState
+- [react-router-nav-prompt](https://www.npmjs.com/package/react-router-nav-prompt) - Component & hook primitives to provide customisable prompt messages when user tries to leave the page in React Router
 
 #### Some PRs I'm proud of:
 
