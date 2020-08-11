@@ -6,7 +6,7 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
 
 - Open Source, of course! 💻
 - React ⚛
-- Let's change that to \*front end frameworks\*
+- JavaScript ecosystem
 - GraphQL ( coz it's hot 🔥 )
 - Data Structures & Algorithms 🏗
 - Compilers 🐉
