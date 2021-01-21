@@ -4,10 +4,10 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
 
 #### Stuff I'm interested in/excited about:
 
-- Open Source, of course! 💻
+- Open Source 💻
 - React ⚛
 - JavaScript ecosystem
-- GraphQL ( coz it's hot 🔥 )
+- GraphQL
 - Data Structures & Algorithms 🏗
 - Compilers 🐉
 
@@ -34,7 +34,7 @@ Hi, I'm a full stack developer, working with React, Node.js and other JavaScript
   - [fix(www): Persist showcase filters while browsing more than one item](https://github.com/gatsbyjs/gatsby/pull/11063)
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - [Add 3 `file-finder`-related features](https://github.com/sindresorhus/refined-github/pull/2825)
 
-...and more ( some day soon I'll stop counting these 😎 )
+...and more ( some day soon I need to stop counting these )
 
 #### Stuff I've written & put up on the web:
 
