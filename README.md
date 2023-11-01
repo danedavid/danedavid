@@ -1,5 +1,3 @@
-# Dane David
-
 Hi, I'm a full stack developer, working with React, Node.js, Go and other JavaScript things.
 
 #### Interests:
